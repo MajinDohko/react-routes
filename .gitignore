@@ -1,0 +1,11 @@
+node_modules/
+
+# Archivos generados durante la ejecución
+*.log
+*.lock
+*.sqlite
+package-lock.json
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
